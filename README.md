@@ -1,10 +1,11 @@
-### LA SOVRAPPOSIZIONE COGNITIVA TRA LE RAPPRESENTAZIONI DEL SE’ E DELL’INGROUP
-##### Un test empirico sull’identificazione nazionale.
+### La sovrapposizione cognitiva tra le rappresentazioni del se’ e dell’ingroup
+#### Un test empirico sull’identificazione nazionale.
 ###### Università di Palermo - Esperimento di tesi magistrale
 
 Progetto di tesi sperimentale magistrale realizzato in collaborazion con il CNR e l'università degli studi di Palermo.
 
 L'applicazione è stata sviluppata sul codice inizalmente fornito dal dott. Gianluca Merlo.
+<br>
 <br>
 
 ### Collaboratori
