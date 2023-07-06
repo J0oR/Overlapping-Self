@@ -1,0 +1,77 @@
+/* -------- Intro --------*/
+.introHeader, .pushAnyBtn {
+    letter-spacing: .1em;
+   /* text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;*/
+    padding: 10px;
+    max-width: 80%;
+    margin-left: 10%;
+    border-radius: 10px!important;
+    font-weight: normal;
+}
+
+.pushAnyBtn {
+    color: rgb(117, 197, 121);
+    background-color: rgba(45, 45, 45, 0.8);
+
+}
+
+.introHeader{
+    color: rgb(98, 196, 183);
+    background-color: rgba(45, 45, 45, 0.8);
+}
+
+.group_rel {
+    color: rgba(45, 45, 45, 1);
+    background-color: rgba(69, 136, 70, 0.50);
+    letter-spacing: .1em;
+    /* text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;*/
+    padding: 10px;
+    border-radius: 10px!important;
+}
+
+#jspsych-survey-html-form{
+    width: 80%;
+    margin-left: 10%!important;
+}
+.final_form_label{
+    color: rgba(45, 45, 45, 0.75);
+    background-color: rgba(69, 136, 70, 0.58);
+    letter-spacing: .1em;
+    /* text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;*/
+    padding: 1%;
+    margin: 1% 0% 1% 0%;
+    border-radius: 10px!important;
+    width: 100%;
+}
+
+.extend_size
+{
+    max-width:100%!important;
+    margin-left:0%!important;
+}
+
+.resize
+{
+    max-width: 80%!important;
+    margin-left: 10%!important;
+}
+
+/* keywords */
+.keyword {
+    color: rgba(45, 45, 45, 0.75);
+    background-color: rgba(69, 136, 70, 0.40);
+    letter-spacing: .1em;
+    /* text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;*/
+    padding: 0.1% 0.8% 0.1% 0.8%!important;
+    border-radius: 10px!important;
+    font-weight: bold;
+    font-variant: all-small-caps;
+    font-size: 20px;
+}
+
+.keyword_header
+{
+    font-weight: bold;
+    font-variant: all-small-caps;
+    font-size: 1.5em;
+}

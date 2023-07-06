@@ -1,0 +1,33 @@
+.jspsych-html-button-response-button {
+    /*background-color: #4CAF50; */
+    background-color: rgba(69, 136, 70, 0.58);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 5%;
+    border-radius: 15px;
+}
+
+.jspsych-html-button-response-button:hover {
+    background-color: #7fb281;
+    transform: scale(1.25)
+}
+
+.jspsych-html-button-response-button .jspsych-btn{
+    background-color: transparent!important;
+    border-color: transparent!important;
+    color: rgba(45, 45, 45, 0.75) !important;
+}
+
+#jspsych-html-button-response-stimulus .introHeader
+{
+    margin-left: 0!important;
+    max-width: 100%;
+    padding: 3%!important;
+    margin-bottom: 5%!important;
+}

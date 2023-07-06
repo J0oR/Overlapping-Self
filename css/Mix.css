@@ -1,0 +1,16 @@
+#jspsych-progressbar-container{
+    max-width: 90%;
+    margin-left: 5%;
+    background-color: transparent!important;
+    border: transparent!important;
+    margin-bottom: 0!important;
+}
+
+#jspsych-progressbar-outer{
+    border-radius: 10px!important;
+}
+
+#jspsych-progressbar-inner{
+    border-radius: 10px!important;
+    background-color: #5fb263!important;
+}
