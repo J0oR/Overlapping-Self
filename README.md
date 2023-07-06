@@ -2,6 +2,8 @@
 #### Un test empirico sull’identificazione nazionale.
 ###### Università di Palermo - Esperimento di tesi magistrale
 
+<br>
+<br>
 Progetto di tesi sperimentale magistrale realizzato in collaborazion con il CNR e l'università degli studi di Palermo.
 
 L'applicazione è stata sviluppata sul codice inizalmente fornito dal dott. Gianluca Merlo.
