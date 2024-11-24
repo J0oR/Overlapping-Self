@@ -6,7 +6,7 @@
 <br>
 Progetto di tesi sperimentale magistrale realizzato in collaborazion con il CNR e l'università degli studi di Palermo.
 
-L'applicazione è stata sviluppata sul codice inizalmente fornito dal dott. Gianluca Merlo.
+L'applicazione è stata sviluppata a partire dal codice inizalmente fornito dal dott. Gianluca Merlo.
 <br>
 <br>
 
